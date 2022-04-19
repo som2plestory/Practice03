@@ -10,7 +10,7 @@ public class Ex16 {
 		
 		System.out.print("숫자를 입력하세요: ");
 
-		int c=0, s=0;
+		int c=0, s=0; //c:count s:sum
 		
 		int n = sc.nextInt();
 		
