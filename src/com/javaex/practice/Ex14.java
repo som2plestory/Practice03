@@ -17,7 +17,7 @@ public class Ex14 {
 		System.out.println(n);
 		for (int i=1; i<=n; i++) {
 			sum += i;
-			}
+		}
 		System.out.println("합계: "+sum);
 		
 		sc.close();
