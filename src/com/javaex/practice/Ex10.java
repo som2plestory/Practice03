@@ -31,9 +31,7 @@ public class Ex10 {
 		for(int i=0; i<5; i++ ) {
 			System.out.print("숫자: ");
 			int n1 = sc.nextInt();
-			if(n>n1) {
-				n=n;
-			}else {
+			if(n<=n1) {
 				n=n1;
 			}
 		}
